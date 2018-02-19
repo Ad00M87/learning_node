@@ -21,3 +21,5 @@ console.log('Server running at http://localhost:8080/');
 server.on('close', function() {
   console.log("Server shutting down...");
 });
+
+//This is an extremely hard thing to figure out.
